@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <title>功能 - 战地1服务器管理工具</title>
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <!--Import Google Icon Font-->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link href="../css/style.css" rel="stylesheet">
+</head>
+
+<body class="feature">
+  <main>
+    <div class="side-nav-container">
+      <div class="side-nav">
+        <i class="material-icons">play_arrow</i>
+        <i class="material-icons">replay</i>
+        <i class="material-icons">add</i>
+        <div class="side-nav-bottom">
+          <i class="material-icons">power_settings_new</i>
+        </div>
+      </div>
+    </div>
+    <div class="main-container">
+      <nav class="sticky">
+        <div id="brand" href="#">
+          <i id="menu-icon" class="material-icons">menu</i>
+          <span>戰地1服務器管理工具</span>
+        </div>
+        <ul>
+          <li>
+            <a href="./home.html" class="nav-link">
+              首頁
+            </a>
+          </li>
+          <li>
+            <a href="./feature.html" class="nav-link active">
+              功能
+            </a>
+          </li>
+          <li>
+            <a href="./auth.html" class="nav-link">
+              授權
+            </a>
+          </li>
+          <li>
+            <a href="./about.html" class="nav-link">
+              關於
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="container components">
+
+        <div class="card ">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae03.alicdn.com/kf/Hf15e77d5e30a4790911390d99ceef792S.png" alt="card1.jpg"
+                title="card1.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製擊殺</span>
+              <p>
+                限製玩家最高擊殺數
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae05.alicdn.com/kf/Hf4b5c2121a9d402ca681836da2fb1e6dV.png" alt="card2.jpg"
+                title="card2.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製KD</span>
+              <p>
+                限製玩家當局KD，KD可以設定一個閾值，達到設定擊殺數後開始計算KD
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae02.alicdn.com/kf/Hadb01152348c4a9b9ad5611b18275719V.png" alt="card3.jpg"
+                title="card3.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製KPM</span>
+              <p>
+                限製玩家當局KPM，KPM可以設定一個閾值，達到設定擊殺數後開始計算KPM
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae02.alicdn.com/kf/H6e7e0a5aab434b7ab8c990a78e7d638d0.png" alt="card4.jpg"
+                title="card4.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製等級</span>
+              <p>
+                限製服務玩家的最低和最高等級
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae03.alicdn.com/kf/Ha1f47cf69b2140e9be25ce56167c4a91i.png" alt="card5.jpg"
+                title="card5.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製武器</span>
+              <p>
+                限製玩家使用的武器，包括主武器、副武器、配置一、配置二、防毒面具、近戰、手雷。支持識別武器種類：原廠，輕量化等，支持特殊裝備：閃光信號彈、槍榴彈等
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae05.alicdn.com/kf/Hbc514ffcf93743fba23648ff869bf20fS.png" alt="card6.jpg"
+                title="card6.jpg" />
+            </div>
+            <div class="card-content">
+              <span>限製載具</span>
+              <p>
+                限製服務器裏的載具，包括坦克、飛機、騎兵、定點武器、戰爭巨獸，運輸載具等，目前不支持載具細分，比如：防空裝甲車和迫擊炮裝甲車
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae04.alicdn.com/kf/H082be8fbb4674c86b9c43edf268ee925b.png" alt="card7.jpg"
+                title="card7.jpg" />
+            </div>
+            <div class="card-content">
+              <span>黑白名單</span>
+              <p>
+                自定義服務器黑、白名單
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae04.alicdn.com/kf/H81141ac71cd54742b24e77b8ff5fe8f68.png" alt="card8.jpg"
+                title="card8.jpg" />
+            </div>
+            <div class="card-content">
+              <span>中文聊天</span>
+              <p>
+                可以方便地發送中文到戰地1聊天框，比如發送伺服器規則，支持無人值守
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae01.alicdn.com/kf/H18b977e7d26f41248220dc83c9240edaV.png" alt="card9.jpg"
+                title="card9.jpg" />
+            </div>
+            <div class="card-content">
+              <span>黑隊檢測</span>
+              <p>
+                支持檢測玩家黑隊
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae02.alicdn.com/kf/H5da313521d4c40f8bca3cde7f54726a87.png" alt="card10.jpg"
+                title="card10.jpg" />
+            </div>
+            <div class="card-content">
+              <span>跳邊檢測</span>
+              <p>
+                支持檢測玩家更換隊伍信息
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-container">
+            <div class="card-img">
+              <img src="https://ae05.alicdn.com/kf/H7c4a8135f397430dbb05901bec6c6a76l.png" alt="card11.jpg"
+                title="card11.jpg" />
+            </div>
+            <div class="card-content">
+              <span>更多</span>
+              <p>
+                更多功能會在後續更新中陸續推出，敬請期待
+              </p>
+              <a href="javascript:void(0);">
+                <div class="card-action hidden-action">
+                  了解
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </main>
+</body>
+
+</html>
