@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.1.5",
+    "Version": "1.0.1.6",
     "Latest": {
-        "Date": "2022/04/10 v1.0.1.5",
-        "Change": "-更改版本更新策略"
+        "Date": "2022/08/11 v1.0.1.6",
+        "Change": "-增加自动获取当前SessionID功能，已处理繁琐的账号登录功能，增加当前服务器地图显示功能，移除第三方GameTool相关API，改用EA原生接口，查询玩家战绩移动到得分板右键功能区，优化搜索服务器功能，修复若干bug"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
@@ -10,12 +10,16 @@
     },
     "Download": [
         {
-            "Name": "GitHub节点 韩国",
-            "Url": "https://ghproxy.com/https://github.com/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
-        },
-        {
             "Name": "GitHub节点 日本",
             "Url": "https://download.fastgit.org/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
+        },
+        {
+            "Name": "GitHub节点 美国1",
+            "Url": "https://gh2.yanqishui.work/https://github.com/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
+        },
+        {
+            "Name": "GitHub节点 美国2",
+            "Url": "https://github.91chi.fun/https://github.com/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
         }
     ]
 }
