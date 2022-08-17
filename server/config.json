@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.1.8",
+    "Version": "1.0.1.9",
     "Latest": {
-        "Date": "2022/08/15 v1.0.1.8",
-        "Change": "-增加本地QQ机器人功能，代码优化"
+        "Date": "2022/08/17 v1.0.1.9",
+        "Change": "-配置文件支持队伍12分开限制，预设10个配置槽，改进QQ机器人功能，修复若干bug"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
