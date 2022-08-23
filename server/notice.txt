@@ -1,4 +1,4 @@
-2022/08/21 22:00
+2022/08/23 14:00
 =================
 
 # 配置文件
@@ -14,9 +14,12 @@ https://github.com/CrazyZhang666/BF1.ServerAdminTools
 ==================================
 https://www.123pan.com/s/QEorVv-Eazv3
 
-## .NET 6.0.8 x64 运行库
+## 必装运行库
 ==================================
+> .NET 6.0.8 x64
 https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.8-windows-x64-installer
+> WebView2
+https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 ## 温馨提示
 ==================================
