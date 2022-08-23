@@ -2,7 +2,7 @@
     "Version": "1.0.2.3",
     "Latest": {
         "Date": "2022/08/23 v1.0.2.3",
-        "Change": "-修改限制生涯武器载具星数会导致闪退问题，修改得分板部分地图识别不正确问题，其他若干改动"
+        "Change": "-修复限制生涯武器载具星数会导致闪退问题，修复得分板部分地图识别不正确问题，其他若干改动"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
