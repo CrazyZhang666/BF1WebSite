@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.2.3",
+    "Version": "1.0.2.4",
     "Latest": {
-        "Date": "2022/08/23 v1.0.2.3",
-        "Change": "-修复限制生涯武器载具星数会导致闪退问题，修复得分板部分地图识别不正确问题，其他若干改动"
+        "Date": "2022/09/12 v1.0.2.4",
+        "Change": "-重新设计了管理工具UI，底层代码优化，改进限制生涯数据规则，完善了配置文件读写，其他若干改动"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
@@ -11,15 +11,15 @@
     "Download": [
         {
             "Name": "GitHub节点 日本",
-            "Url": "https://download.fastgit.org/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
+            "Url": "https://download.fastgit.org/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
         },
         {
             "Name": "GitHub节点 美国1",
-            "Url": "https://gh2.yanqishui.work/https://github.com/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
+            "Url": "https://gh.gh2233.ml/https://github.com/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
         },
         {
             "Name": "GitHub节点 美国2",
-            "Url": "https://github.91chi.fun/https://github.com/CrazyZhang666/BF1.ServerAdminTools/releases/download/update/BF1.ServerAdminTools.exe"
+            "Url": "https://download.yzuu.cf/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
         }
     ]
 }
