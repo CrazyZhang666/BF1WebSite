@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.2.4",
+    "Version": "1.0.2.5",
     "Latest": {
-        "Date": "2022/09/12 v1.0.2.4",
-        "Change": "-重新设计了管理工具UI，底层代码优化，改进限制生涯数据规则，完善了配置文件读写，其他若干改动"
+        "Date": "2022/09/13 v1.0.2.5",
+        "Change": "-修改查询服务器和玩家数据API为GameTools，查询服务器现在点击末尾按钮可以查询该服务器的玩家列表，优化后端代码，其他若干改动"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
