@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.2.5",
+    "Version": "1.0.2.6",
     "Latest": {
-        "Date": "2022/09/13 v1.0.2.5",
-        "Change": "-修改查询服务器和玩家数据API为GameTools，查询服务器现在点击末尾按钮可以查询该服务器的玩家列表，优化后端代码，其他若干改动"
+        "Date": "2022/09/14 v1.0.2.6",
+        "Change": "-查询服务器和玩家数据API增加EA原生和GameTools切换功能，优化得分板右键菜单样式，其他若干改动"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
@@ -14,12 +14,8 @@
             "Url": "https://download.fastgit.org/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
         },
         {
-            "Name": "GitHub节点 美国1",
-            "Url": "https://gh.gh2233.ml/https://github.com/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
-        },
-        {
-            "Name": "GitHub节点 美国2",
-            "Url": "https://download.yzuu.cf/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
+            "Name": "GitHub节点 默认",
+            "Url": "https://github.com/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
         }
     ]
 }
