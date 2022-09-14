@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.2.6",
+    "Version": "1.0.2.7",
     "Latest": {
-        "Date": "2022/09/14 v1.0.2.6",
-        "Change": "-查询服务器和玩家数据API增加EA原生和GameTools切换功能，优化得分板右键菜单样式，其他若干改动"
+        "Date": "2022/09/15 v1.0.2.7",
+        "Change": "-增加玩家生涯数据缓存功能（有效期24小时），优化限制生涯数据功能，修复崩溃bug"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
