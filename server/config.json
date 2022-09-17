@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.2.9",
+    "Version": "1.0.3.0",
     "Latest": {
-        "Date": "2022/09/16 v1.0.2.9",
-        "Change": "-修复战地1客户端语言为英文可能导致的闪退问题，QQ机器人默认端口更改防止冲突，优化QQ机器人体验，限制武器功能优化，增加武器预览图，修复若干bug"
+        "Date": "2022/09/16 v1.0.3.0",
+        "Change": "-修复部分steam用户会出现战地1内存模块初始化失败问题，补全限制武器预览图，优化部分UI样式"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
