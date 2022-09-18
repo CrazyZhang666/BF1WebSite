@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.3.0",
+    "Version": "1.0.3.1",
     "Latest": {
-        "Date": "2022/09/16 v1.0.3.0",
-        "Change": "-修复部分steam用户会出现战地1内存模块初始化失败问题，补全限制武器预览图，优化部分UI样式"
+        "Date": "2022/09/18 v1.0.3.1",
+        "Change": "-修复限制生涯飞机星数无效问题"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
