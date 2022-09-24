@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.3.1",
+    "Version": "1.0.3.2",
     "Latest": {
-        "Date": "2022/09/18 v1.0.3.1",
-        "Change": "-修复限制生涯飞机星数无效问题"
+        "Date": "2022/09/22 v1.0.3.2",
+        "Change": "-修复授权模式二情况下会出现无法正确识别当前账号管理员的问题"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
