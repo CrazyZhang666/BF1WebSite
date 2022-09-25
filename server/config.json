@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.3.2",
+    "Version": "1.0.3.3",
     "Latest": {
-        "Date": "2022/09/22 v1.0.3.2",
-        "Change": "-修复授权模式二情况下会出现无法正确识别当前账号管理员的问题"
+        "Date": "2022/09/25 v1.0.3.3",
+        "Change": "-修复观战官服会导致崩溃问题，修复某些情况下会无法识别当前管理员问题，优化低分辨率下的工具显示效果"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
