@@ -16,7 +16,7 @@ https://www.123pan.com/s/QEorVv-Eazv3
 
 ## 必装运行库
 ==================================
-> .NET 6.0.8 x64
+> .NET 6.0.9 x64
 https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.9-windows-x64-installer
 > WebView2
 https://go.microsoft.com/fwlink/p/?LinkId=2124703
