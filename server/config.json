@@ -1,18 +1,14 @@
 {
-    "Version": "1.0.3.4",
+    "Version": "1.0.3.5",
     "Latest": {
-        "Date": "2022/10/05 v1.0.3.4",
-        "Change": "-现在观战列表仅显示观战玩家，不再显示队伍0玩家"
+        "Date": "2022/11/07 v1.0.3.5",
+        "Change": "-增加自动踢出非管理员观战功能"
     },
     "Address": {
         "Notice": "https://battlefield.vip/server/notice.txt",
         "Change": "https://battlefield.vip/server/change.txt"
     },
     "Download": [
-        {
-            "Name": "GitHub节点 日本",
-            "Url": "https://download.fastgit.org/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
-        },
         {
             "Name": "GitHub节点 默认",
             "Url": "https://github.com/CrazyZhang666/BF1.ServerToolKit/releases/download/update/BF1.ServerToolKit.exe"
